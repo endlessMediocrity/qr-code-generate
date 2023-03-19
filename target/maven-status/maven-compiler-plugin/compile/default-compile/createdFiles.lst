@@ -1,4 +1,4 @@
+qr\GivePaths.class
+qr\Qrcode.class
 qr\Main.class
-qr\QRCodeGeneratorUI.class
-qr\QRCodeGenerator.class
-qr\QRCodeGeneratorUI$1.class
+qr\TakeData.class
