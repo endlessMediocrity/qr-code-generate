@@ -31,7 +31,7 @@ public class Main {
 
                 while (generator.getLogoFile() == null) {
                     try {
-                        String input = "C:\\Users\\slim\\IdeaProjects\\untitled\\src\\main\\tools\\logo.png";
+                        String input = "src\\main\\tools\\logo.png";
                         generator.setLogoFile(new File(input));
                     } catch (Exception e) {
                         System.out.println(e.getMessage());
