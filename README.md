@@ -10,7 +10,7 @@ This is my little 10th grade school project. Its essence is simple: generating a
 
 How it works:
 
-At startup, you need to enter 2 lines. 1 of contains the path for the extension input (.xlsx). In 2 ways where to save ready-made QR codes. Note that QR codes are generated line by line, and the output location is a folder that contains .png files in the same order as in the table.
+At first, you need to enter 2 lines. Thw first one contains the path for the extension input (.xlsx). Second one where to save ready-made QR codes. Note that QR codes are generated line by line, and the output location is a folder that contains .png files in the same order as in the table.
 
 What was used:
 
